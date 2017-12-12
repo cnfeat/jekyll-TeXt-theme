@@ -13,10 +13,10 @@
 
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl: /
-title: Someone's blog
+baseurl: http://www.yilee.me/
+title: 一粒米若水
 description: > #this means to ignore newlines until "nav_lists:"
-  Someone's Blog
+  一亩三分地，就是我的私家菜园
 
 nav_lists:
   - titles:
@@ -42,8 +42,8 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Someone
-  # email:  #your Email address e.g. someone@site.com
+  name: Yilee
+  email:  yilee320@qq.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
   # github:  #your GitHub username
@@ -54,10 +54,10 @@ author:
 
 ## Comment system (Disqus) ##
 disqus:
-  # shortname:  #the Disqus shortname for the site
+  shortname: cnfeat
 
 ## Google Analytics ##
-# ga_tracking_id:  #Google analytics id for the site
+ga_tracking_id:  UA-111108086-1
 
 ## Reading quantity (LeanCloud) ##
 leancloud:
